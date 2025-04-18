@@ -10,12 +10,15 @@
 - 🎓 **University:** KLE Technological University, Hubballi
 - 🌐 **Domain:** Google
 
-## 🌐 Domain Description: Google
+## Introduction
 
-![Google Logo](/assets/images/google-icon.png)
+![Google Logo](/assets/images/google-logo.png)
 
-Google LLC is a global technology leader renowned for its powerful search engine and a diverse range of services such as Gmail, Google Maps, Google Drive, Android, and YouTube. As a subsidiary of Alphabet Inc., Google continues to drive innovation through artificial intelligence, machine learning, cloud computing, and user-focused products.
+Google LLC is a global technology powerhouse, best known for its flagship product — the Google Search engine. But its reach extends far beyond that. With services like **Gmail, Google Maps, YouTube, Google Drive, Google Cloud, Android**, and more, Google has built an entire ecosystem that impacts billions of users across the globe.
 
-From managing billions of daily queries to powering smart assistants and developing scalable cloud platforms, Google stands as a pioneer in leveraging cutting-edge algorithms and backend architectures. Its commitment to solving real-world problems with elegant, efficient, and scalable solutions makes it an ideal domain to explore algorithmic problem solving in practice.
+Google was chosen as the domain of focus due to its **evergrowing nature**, constant innovation, and the **vast number of services** it offers. Each of these services is powered by advanced algorithms, robust backend systems, and scalable architectures — all of which are prime ground for exploring how algorithmic thinking and backend development solve problems at scale.
 
-> “Google’s mission is to organize the world’s information and make it universally accessible and useful.” – and that mission is deeply rooted in problem-solving at scale.
+From real-time content delivery to intelligent recommendation engines, Google's infrastructure embodies real-world applications of **efficiency, optimization**, and **data-driven design** — making it a compelling and relevant space for technical exploration.
+
+> “Google’s mission is to organize the world’s information and make it universally accessible and useful.”  
+> That mission is realized through powerful, intelligent, and resilient systems built on problem-solving fundamentals.
