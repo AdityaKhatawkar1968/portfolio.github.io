@@ -1,13 +1,15 @@
 ---  
 ---  
-@import "minimal-mistakes/style";
+/* 1. (Optional) pick your skin — matches `minimal_mistakes_skin` in _config.yml */
+@import "minimal-mistakes/skins/air";  
 
-/* Global font-size */
+/* 2. Import the core Minimal Mistakes styles */
+@import "minimal-mistakes";  
+
+/* 3. Your custom overrides go *after* the imports */
 body {
   font-size: 0.875rem;
 }
-
-/* Heading sizes */
 h1, .page-header__title {
   font-size: 2rem;
 }
@@ -17,8 +19,6 @@ h2 {
 h3 {
   font-size: 1.5rem;
 }
-
-/* Misc tweaks */
 p, li {
   line-height: 1.5;
 }
