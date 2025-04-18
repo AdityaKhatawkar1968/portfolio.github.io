@@ -6,6 +6,6 @@
 - 🆔 **SRN:** 01FE22BCS323  
 - 📖 **Course Name:** Algorithmic Problem Solving  
 - 🔢 **Course Code:** 24ECSE309  
-- 👩‍🏫 **Course Instructor:** Prakash Hegade  
-- 🌐 **Domain:** Google
+- 👩‍🏫 **Course Instructor:** Prakash Hegade
 - 🎓 **University:** KLE Technological University, Hubballi
+- 🌐 **Domain:** Google
