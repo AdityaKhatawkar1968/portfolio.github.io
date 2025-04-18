@@ -6,11 +6,12 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 author:
   name: "Aditya N. Khatawkar"
   email: "adityakhatawkar2@gmail.com"
-
+  
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 markdown: kramdown
 highlighter: rouge
