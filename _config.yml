@@ -6,6 +6,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 author:
   name: "Aditya N. Khatawkar"
   email: "adityakhatawkar2@gmail.com"
+
+  
+header_pages:
+  - README.md
   
 plugins:
   - jekyll-remote-theme
