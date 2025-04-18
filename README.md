@@ -12,7 +12,7 @@
 
 ## Introduction
 
-![Google Logo](/assets/images/google-logo.png)
+![Google Logo](/assets/images/google-icon.png)
 
 Google LLC is a global technology powerhouse, best known for its flagship product — the Google Search engine. But its reach extends far beyond that. With services like **Gmail, Google Maps, YouTube, Google Drive, Google Cloud, Android**, and more, Google has built an entire ecosystem that impacts billions of users across the globe.
 
