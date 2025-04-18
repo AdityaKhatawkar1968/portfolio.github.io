@@ -1,47 +1,28 @@
 ---
 ---
 
-/* 1. Pick your skin */
+/* 1. (Optional) pick your skin — matches minimal_mistakes_skin in _config.yml */
 @import "minimal-mistakes/skins/air";
 
-/* 2. Core theme styles */
+/* 2. Import the core Minimal Mistakes styles */
 @import "minimal-mistakes";
 
-/* 3. Custom overrides */
-
-/* Make overall text a bit smaller */
+/* 3. Your custom overrides go *after* the imports */
 body {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
-
-/* Smaller headings for more compact layout */
 h1, .page-header__title {
-  font-size: 2.2rem; /* site title and main page title */
+  font-size: 1.75rem;
 }
-
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
-
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.25rem;
 }
-
-h4 {
-  font-size: 1.1rem;
-}
-
 p, li {
-  line-height: 1.6;
-  font-size: 0.9rem;
+  line-height: 1.4;
 }
-
-/* Make footer text smaller */
 .site-footer {
-  font-size: 0.75rem;
-}
-
-/* Optional: Reduce spacing a bit */
-.page__content {
-  padding: 1rem 1.5rem;
+  font-size: 0.7rem;
 }
