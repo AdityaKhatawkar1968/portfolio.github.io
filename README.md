@@ -1,5 +1,5 @@
 > *Connecting ideas to solutions, one problem at a time!*
-
+---
 ## 📋 Student & Course Details
 
 - 👤 **Name:** Aditya N. Khatawkar  
